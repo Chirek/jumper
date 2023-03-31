@@ -1,0 +1,28 @@
+#content{
+    background-color: rgb(240, 240, 240);
+    border: 1px solid black;
+    border-radius: 10px;
+}
+h1{
+    font-size: medium;
+}
+h1.maint{
+    font-size: larger;
+}
+.doboz{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-left: 1px;
+    margin-right: 1px;
+    background-image: url("https://www.jumper.hu/img/lk.png");
+    background-position: center center;
+}
+#bekezdes{
+    text-align: justify;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+#last{
+    margin-bottom: 250px;
+}
