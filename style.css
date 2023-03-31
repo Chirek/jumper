@@ -14,8 +14,7 @@ h1.maint{
     border-radius: 5px;
     margin-left: 1px;
     margin-right: 1px;
-    background-image: url("https://www.jumper.hu/img/lk.png");
-    background-position: center center;
+    background-color: blue;
 }
 #bekezdes{
     text-align: justify;
