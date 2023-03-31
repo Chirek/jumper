@@ -14,7 +14,7 @@ h1.maint{
     border-radius: 5px;
     margin-left: 1px;
     margin-right: 1px;
-    background-color: blue;
+    background-color: rgba(49, 133, 243 ,.5);
 }
 #bekezdes{
     text-align: justify;
